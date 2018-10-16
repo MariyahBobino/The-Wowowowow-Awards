@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    }
+    
+h3{
+    text-align: center;
+}
+h3{ 
+    color: red;
+}
+p{
+    color: red;
+}
+img{
+     width: 400px;
+    height: auto;
+}
+p{
+    text-align: center;
+}
+
+.blue{ 
+    color: blue; 
+    font-family: 'Quicksand', sans-serif;
+}
+
+.green{
+    color: green;
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+.small{
+     width: auto;
+     height: 400px;
+}
+body{ 
+    background-color: black;
+}
